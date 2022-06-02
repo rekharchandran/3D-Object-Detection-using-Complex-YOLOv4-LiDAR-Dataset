@@ -21,8 +21,8 @@ Left color images of object data set (12 GB): for visualization of predictions
 Please make sure that you construct the source code & dataset directories structure as below.
 
 ${ROOT}
-└── checkpoints/    
-    └── complex_yolov4/
+└── checkpoints/                                                                                                                                                       
+    └── complex_yolov4/                                                                                                                                                 
 └── dataset/ 
 └── kitti
 ├── ImageSets
