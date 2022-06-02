@@ -29,15 +29,14 @@ ${ROOT}
 │   ├── test.txt                                                                                                                                                       
 │   ├── train.txt                                                                                                                                                       
 │   ├── val.txt                                                                                                                                                         
-├── testing
+├── testing                                                                                                                                                             
+│   ├── calib                                                                                                                                                            │   ├── image_2                                                                                                                                                         
+│   ├── velodyne                                                                                                                                                       
+├── training                                                                                                                                                           
 │   ├── calib
-│   ├── image_2
-│   ├── velodyne
-├── training
-│   ├── calib
-│   ├── image_2
-│   ├── label_2
-│   ├── velodyne                                                         
+│   ├── image_2                                                                                                                                                         
+│   ├── label_2                                                                                                                                                         
+│   ├── velodyne                                                                                                                                                                                                                
 
 
 
