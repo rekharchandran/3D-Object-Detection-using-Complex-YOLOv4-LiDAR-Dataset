@@ -18,13 +18,8 @@ Training labels of object data set (5 MB): input label to the Complex-YOLO model
 Camera calibration matrices of object data set (16 MB): for visualization of predictions
 Left color images of object data set (12 GB): for visualization of predictions
 
-Please make sure that you construct the source code & dataset directories structure as below.
 
-${ROOT}
-└── checkpoints/                                                                                                                              └── complex_yolov4/                                                                                                                         └── dataset/                                                                                                                                     └── kitti/                                                                                                                                           ├──ImageSets/                                                                                                                               │   ├── train.txt                                                                                                                           │   └── val.txt                                                                                           
-            ├── training/                                                                                                                               │   ├── image_2/ <-- for visualization
-                                                                                                                                                                                                                                                                                                                                                                                                                                                
-                                                                                                                                                                                                          
+
 
 
 
