@@ -22,8 +22,8 @@ Please make sure that you construct the source code & dataset directories struct
 
 ${ROOT}
 └── checkpoints/                                                                                                                                                       
-    └── complex_yolov4/                                                                                                                                                 
-└── dataset/ 
+    └── complex_yolov4/                                                                                                                                                                                                                                                                                              
+    └── dataset/                                                                                                                                                       
 └── kitti
 ├── ImageSets
 │   ├── test.txt
