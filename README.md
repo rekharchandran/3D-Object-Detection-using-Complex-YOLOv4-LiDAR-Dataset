@@ -33,9 +33,11 @@ ${ROOT}
 │   ├── calib                                                                                                                                                           
 │   ├── image_2                                                                                                                                                          │   ├── velodyne                                                                                                               
 ├── training                                                                                                                                                           
-│   ├── calib                                                                                                                                                           
-│   ├── image_2                                                                                                                                                         
-│   ├── label_2                                                                                                                                                         
+│   ├── calib                                                                                                                                                                
+│   ├── image_2  
+
+│   ├── label_2
+
 │   ├── velodyne                                                                                                                                                                                                                
 
 
