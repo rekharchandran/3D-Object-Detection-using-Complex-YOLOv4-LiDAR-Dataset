@@ -8,5 +8,5 @@
 pip install -U -r requirements.txt
 
 ### Data Preparation
-The dataset is collected from KITTI vision benchmark suite, which has been captured from VW station wagon for use in mobile robotics and autonomous driving research. The 3D object detection benchmark consists of 7481 training images and 7518 test images as well as the corresponding point clouds, comprising a total of 80.256 labeled objects.
+The dataset is collected from KITTI vision benchmark suite, which has been captured from VW station wagon for use in mobile robotics and autonomous driving research. The 3D object detection benchmark consists of 7481 training images and 7518 test images as well as the corresponding point clouds, comprising a total of 80.256 labeled objects.                                                                                                                                                                  
 Download the 3D KITTI detection dataset from [here](http://www.cvlibs.net/datasets/kitti/eval_object.php?obj_benchmark=3d)
