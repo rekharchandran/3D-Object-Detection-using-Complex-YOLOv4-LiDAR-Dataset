@@ -21,24 +21,10 @@ Left color images of object data set (12 GB): for visualization of predictions
 Please make sure that you construct the source code & dataset directories structure as below.
 
 ${ROOT}
-└── checkpoints/                                                                                                                                                       
-    └── complex_yolov4/                                                                                                                                                                                                                                                                                              
-    └── dataset/                                                                                                                                                       
-└── kitti
-├── ImageSets                                                                                                                                                           
-│   ├── test.txt                                                                                                                                                       
-│   ├── train.txt                                                                                                                                                       
-│   ├── val.txt                                                                                                                                                         
-├── training                                                                                                                                                           
-│   ├── calib                                                                                                                                                           
-│   ├── image_2                                                                                                                                                          │   ├── velodyne                                                                                                               
-├── training                                                                                                                                                           
-│   ├── calib                                                                                                                                                                
-│   ├── image_2  
-
-│   ├── label_2
-
-│   ├── velodyne                                                                                                                                                                                                                
+└── checkpoints/                                                                                                                              └── complex_yolov4/                                                                                                                         └── dataset/                                                                                                                                     └── kitti/                                                                                                                                           ├──ImageSets/                                                                                                                               │   ├── train.txt                                                                                                                           │   └── val.txt                                                                                           
+            ├── training/                                                                                                                               │   ├── image_2/ <-- for visualization
+                                                                                                                                                                                                                                                                                                                                                                                                                                                
+                                                                                                                                                                                                          
 
 
 
