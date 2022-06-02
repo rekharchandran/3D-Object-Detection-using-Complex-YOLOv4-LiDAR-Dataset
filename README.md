@@ -32,7 +32,7 @@ ${ROOT}
 ├── testing                                                                                                                                                             
 │   ├── calib                                                                                                                                                            │   ├── image_2                                                                                                                                                         │   ├── velodyne                                                                                                              
 ├── training                                                                                                                                                           
-│   ├── calib
+│   ├── calib                                                                                                                                                           
 │   ├── image_2                                                                                                                                                         
 │   ├── label_2                                                                                                                                                         
 │   ├── velodyne                                                                                                                                                                                                                
