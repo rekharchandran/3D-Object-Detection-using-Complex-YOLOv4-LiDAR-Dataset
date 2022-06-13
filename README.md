@@ -54,7 +54,7 @@ python train.py --gpu_idx 0 --batch_size <N> --num_workers <N>...
 
   
   
-  ![Screenshot]1.png)
+
   
 
 
