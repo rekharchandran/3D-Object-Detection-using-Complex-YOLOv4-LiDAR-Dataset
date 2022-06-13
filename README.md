@@ -54,53 +54,8 @@ python train.py --gpu_idx 0 --batch_size <N> --num_workers <N>...
 
   
   
+  ![My Image](images/C:\Users\Rekha\Desktop\1.png)
   
-${ROOT}
-└── checkpoints/
-    ├── fpn_resnet_18/    
-        ├── fpn_resnet_18_epoch_300.pth
-└── dataset/    
-    └── kitti/
-        ├──ImageSets/
-        │   ├── test.txt
-        │   ├── train.txt
-        │   └── val.txt
-        ├── training/
-        │   ├── image_2/ (left color camera)
-        │   ├── calib/
-        │   ├── label_2/
-        │   └── velodyne/
-        └── testing/  
-        │   ├── image_2/ (left color camera)
-        │   ├── calib/
-        │   └── velodyne/
-        └── classes_names.txt
-└── sfa/
-    ├── config/
-    │   ├── train_config.py
-    │   └── kitti_config.py
-    ├── data_process/
-    │   ├── kitti_dataloader.py
-    │   ├── kitti_dataset.py
-    │   └── kitti_data_utils.py
-    ├── models/
-    │   ├── fpn_resnet.py
-    │   ├── resnet.py
-    │   └── model_utils.py
-    └── utils/
-    │   ├── demo_utils.py
-    │   ├── evaluation_utils.py
-    │   ├── logger.py
-    │   ├── misc.py
-    │   ├── torch_utils.py
-    │   ├── train_utils.py
-    │   └── visualization_utils.py
-    ├── demo_2_sides.py
-    ├── demo_front.py
-    ├── test.py
-    └── train.py
-├── README.md 
-└── requirements.txt
 
 
 
