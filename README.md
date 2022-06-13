@@ -54,7 +54,7 @@ python train.py --gpu_idx 0 --batch_size <N> --num_workers <N>...
 
   
   
-  ![My Image](images/C:\Users\Rekha\Desktop\1.png)
+  !(images/C:\Users\Rekha\Desktop\1.png)
   
 
 
